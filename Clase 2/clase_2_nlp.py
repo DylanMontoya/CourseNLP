@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug  1 21:01:08 2022
-
-@author: Acer
-"""
-
 import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
