@@ -13,6 +13,10 @@ print(words)
 words = [ w.lower() for w in words if w.isalpha()]
 print(words)
 
+# for w in words:
+#     words = words[w].lower()
+# print(words)
+
 stop_words = set(stopwords.words('spanish'))
 
 filtered_sentences = []
