@@ -4,7 +4,7 @@
 * Natural Language Toolkit [NLTK](https://www.nltk.org/)
 * Machine Learning in Python [Scikit-Learn](https://scikit-learn.org/stable/)
 ---
-1. - [x] Introducción a python (basico e intermedio). #739
+1. - [x] #739 Introducción a python (basico e intermedio). 
 2. - [x] Introducción a la minería de texto. https://github.com/octo-org/octo-repo/issues/740
 3. - [x] Procesamiento de texto sin procesar.
 4. - [ ] Vectorización de texto (Numpy, pandas).
