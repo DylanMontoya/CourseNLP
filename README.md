@@ -1,6 +1,9 @@
-# Curso_NLP
-Curso básico de procesamiento de lenguaje natural (NLTK y ML)
+# **Curso de Procesamiento de Lenguaje Natural**
 
+### **Librerias relevantes:***
+* Natural Language Toolkit [NLTK](https://www.nltk.org/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+---
 * Introducción a python (basico e intermedio).
 * Introducción a la minería de texto.
 * Procesamiento de texto sin procesar.
