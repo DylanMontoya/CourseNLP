@@ -10,5 +10,5 @@
 4. - [x] Text characterization.
 5. - [x] Build dataset - Unstructured Data to Structure Data.
 6. - [x] Regression logistics
-7. - [ ] Wordembeddings: One Hot encoding, Word2Vec.
+7. - [x] Wordembeddings: One Hot encoding, Word2Vec.
 8. - [ ] Building text classification model with Machine Learning.
