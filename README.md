@@ -1,4 +1,4 @@
-# **Course of Natural Language Processing**
+# **Natural Language Processing Course**
 
 ### **Librerias relevantes:**
 * Natural Language Toolkit [NLTK](https://www.nltk.org/)
@@ -11,5 +11,4 @@
 5. - [x] Build dataset - Unstructured Data to Structure Data.
 6. - [x] Regression logistics
 7. - [ ] Wordembeddings: One Hot encoding, Word2Vec.
-8. - [ ] Introducción a modelos de clasificación.
-9. - [ ] Construyendo un clasificador de texto con machine learning.
+8. - [ ] Building text classification model with Machine Learning.
