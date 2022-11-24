@@ -8,7 +8,8 @@
 2. - [x] Introduction to text mining.
 3. - [x] Text processing.
 4. - [x] Text characterization.
-5. - [x] Build dataset - Unstructured Data to Structure Data
-5. - [ ] Wordembeddings: One Hot encoding, Word2Vec.
-6. - [ ] Introducción a modelos de clasificación.
-7. - [ ] Construyendo un clasificador de texto con machine learning.
+5. - [x] Build dataset - Unstructured Data to Structure Data.
+6. - [x] Regression logistics
+7. - [ ] Wordembeddings: One Hot encoding, Word2Vec.
+8. - [ ] Introducción a modelos de clasificación.
+9. - [ ] Construyendo un clasificador de texto con machine learning.
