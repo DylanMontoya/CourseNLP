@@ -16,26 +16,26 @@
 ### Classes
 
 #### <a href="/Class 1/">Class 1:</a> 
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>You will know about basic python programming like variable types, loops and basic operations.</p>
 
 #### <a href="/Class 2/">Class 2:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>You will learn to process text with the NLTK library and string operations.</p>
 
 #### <a href="/Class 3/">Class 3:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>Basic example of how to do text mining, from text extracted from an html page.</p>
 
 #### <a href="/Class 4/">Class 4:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>Dataframe manipulation, relevant data extraction and characterization.</p>
 
 #### <a href="/Class 5/">Class 5:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>You will know the handling of the twitter api and learn data structuring from a json file.</p>
 
 #### <a href="/Class 6/">Class 6:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>Logistic regressor for analysis of sentiments in tweets.</p>
 
 #### <a href="/Class 7/">Class 7:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>Vectorization of text with Wordembeddings.</p>
 
 #### <a href="/Class 8/">Class 8:</a>
-<p>You know about basic python programming like variable types, loops and basic operations.</p>
+<p>Construction of a classifier from machine learning techniques.</p>
 
