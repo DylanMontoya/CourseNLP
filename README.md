@@ -11,7 +11,7 @@
 5. - [x] Build dataset - Unstructured Data to Structure Data.
 6. - [x] Regression logistics
 7. - [x] Wordembeddings: One Hot encoding, Word2Vec.
-8. - [ ] Building text classification model with Machine Learning.
+8. - [x] Building text classification model with Machine Learning.
 ---
 ### Classes
 
