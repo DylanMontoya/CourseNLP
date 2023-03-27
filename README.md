@@ -1,5 +1,7 @@
 # **Natural Language Processing Course**
 
+I made this cuorse of NLP and Machine Learning to dictate at ITM.
+
 #### **Libraries:**
 * Natural Language Toolkit [NLTK](https://www.nltk.org/)
 * Machine Learning in Python [Scikit-Learn](https://scikit-learn.org/stable/)
